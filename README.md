@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BlockChain, WEB3<br>👯 I’m looking to collaborate on innovation, solution and cool things<br>🌱 I’m currently learning solidity, integration, hyperledger besu<br>⚡ Fun fact dude it´s a NaN
+🔭 I’m currently working on BlockChain, WEB3<br>👯 I’m looking to collaborate on innovation, solution and cool things<br>🌱 I’m currently learning solidity, integration, hyperledger besu<br>⚡ Fun fact: dude! it´s a NaN
 
 
 ## 🌐 Socials:
@@ -12,18 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mtrn87&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtrn87&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mtrn87&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mtrn87&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mtrn87&icon=5&color=1)](https://visitcount.itsvg.in)
 
